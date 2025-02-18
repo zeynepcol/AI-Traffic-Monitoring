@@ -4,6 +4,8 @@
    <b>Real-time Traffic Monitoring System using AI & Computer Vision</b>  
 </p>
 
+![Image](https://github.com/user-attachments/assets/9046c765-4e38-4a01-ad7a-f108d8765065)
+
 ## ✨ Overview
 
 This project focuses on developing a **real-time traffic monitoring system** using artificial intelligence techniques. The system is designed to **detect, track, and analyze vehicles** in video feeds, providing valuable data for **road safety** and **traffic management**.
