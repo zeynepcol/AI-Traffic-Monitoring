@@ -87,7 +87,7 @@ This AI-powered traffic monitoring system contributes to **safer roads, efficien
 
 
 ---
-## ✨ Contributing
+## 🤝 Contributing
 
 Contributions are welcome! 
 
