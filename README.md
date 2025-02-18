@@ -51,10 +51,8 @@ This solution is scalable and contributes to **smart city initiatives** by impro
 
 2. **Install Dependencies**
 
-3. **Run the Dashboard**
-   ```bash
-    run speed.py
-   ```
+3. **Run speed.py**
+
 
 ---
 
