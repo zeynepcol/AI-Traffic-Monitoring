@@ -17,7 +17,7 @@ Using **YOLOv8** for object detection, **OpenCV** for video processing, and **Py
 ✔️ Optimizes **traffic flow**  
 ✔️ Contributes to **smart city initiatives** 
 
----
+
 
 ## 🌟 Features
 ✅ **Real-time Vehicle Detection & Tracking** with YOLOv8  
@@ -29,7 +29,7 @@ Using **YOLOv8** for object detection, **OpenCV** for video processing, and **Py
 
 This solution is scalable and contributes to **smart city initiatives** by improving traffic flow and road safety.
 
----
+
 
 ## 💻 Tech Stack
 
@@ -42,7 +42,7 @@ This solution is scalable and contributes to **smart city initiatives** by impro
 | **Pandas & NumPy** 📊 | Data handling |
 | **Winsound** 🔊 | Audio alerts |
 
----
+
 
 
 ## 🚀 Installation & Usage
@@ -54,7 +54,7 @@ This solution is scalable and contributes to **smart city initiatives** by impro
 3. **Run speed.py**
 
 
----
+
 
 ## 🎓 Learnings & Experience
 
@@ -67,7 +67,8 @@ Through this project, we gained hands-on experience in:
 
 This project strengthened our skills in **computer vision, AI model deployment, and real-time analytics** for intelligent traffic monitoring.  
 
----
+
+
 ## 📊 Results & Impact  
 
 This system successfully:  
@@ -86,12 +87,12 @@ This system successfully:
 This AI-powered traffic monitoring system contributes to **safer roads, efficient traffic control, and smarter cities**. 
 
 
----
+
 ## 🤝 Contributing
 
 Contributions are welcome! 
 
----
+
 ## 📡 Contact
 
 For any queries or collaborations, feel free to reach out!
