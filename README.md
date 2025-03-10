@@ -83,7 +83,7 @@ This system successfully:
 🛣 **Road Safety Monitoring** – Detect speeding vehicles and prevent accidents  
 🏙 **Smart City Developments** – Enable data-driven decision-making for city planners  
 
-This AI-powered traffic monitoring system contributes to **safer roads, efficient traffic control, and smarter cities**. 🌍🚗  
+This AI-powered traffic monitoring system contributes to **safer roads, efficient traffic control, and smarter cities**. 
 
 
 ---
